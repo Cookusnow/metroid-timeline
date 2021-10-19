@@ -1,0 +1,440 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+
+    <link rel="stylesheet" href="timeline.css">
+    <title>The Interactive Metroid Timeline</title>
+</head>
+
+<body>
+    <div class="container text-center">
+        <div class="display-1">The Metroid Timeline</div>
+    </div>
+    <div class="accordion" id="timeline">
+        <div class="accordion-item">
+            <h2 class="accordion-header" id="mangaHeader">
+                <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#manga" aria-expanded="true" aria-controls="manga">Metroid Manga: Volume 1 +
+                    2</button>
+            </h2>
+            <div id="manga" class="accordion-collapse collapse" aria-labelledby="mangaHeader" data-bs-parent="#timeline">
+                <div class="accordion-body">
+                    <div>
+                        <img src="images/metroidmanga1.jfif">
+                        <img src="images/metroidmanga2.jfif">
+                    </div>
+                    The Metroid Manga tells of <a class="loreModal" type="button" data-bs-toggle="modal" data-bs-target="#samusModal">Samus
+                        Aran's</a> origin, from her parents death, adoption and training by the <a class="loreModal" type="button" data-bs-toggle="modal" data-bs-target="#chozoModal">Chozo</a>, her brief time in the <a class="loreModal" type="button"
+                        data-bs-toggle="modal" data-bs-target="#federationModal">Galactic Federation</a>, and the events leading up to the first Metroid game.
+                    <div class="modal fade" id="samusModal" tabindex="-1" role="dialog" aria-labelledby="samusModalTitle" aria-hidden="true">
+                        <div class="modal-dialog modal-dialog-centered" role="document">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <h5 class="modal-title" id="samusModalTitle">Samus Aran: Bounty Hunter</h5>
+                                    </button>
+                                </div>
+                                <div class="modal-body">
+                                    The last survivor from the Space Pirate attack of Planet K-2L, Samus Aran was raised and trained by the Chozo on Planet Zebes. She briefly joined the Galactic Federation under the command of Adam Malkovich, but went off on her own and became a well known
+                                    Bounty Hunter.
+                                </div>
+                                <div class="modal-footer">
+                                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="modal fade" id="chozoModal" tabindex="-1" role="dialog" aria-labelledby="chozoModalTitle" aria-hidden="true">
+                        <div class="modal-dialog modal-dialog-centered" role="document">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <h5 class="modal-title" id="chozoModalTitle">The Chozo</h5>
+                                    </button>
+                                </div>
+                                <div class="modal-body">
+                                    The Chozo are a race of bird-like aliens, gifted with high intelligence and technological prowess and have had influence in many galactic cultures. The Chozo have mysteriously gone missing over the years; it is unknown if any are still alive.
+                                </div>
+                                <div class="modal-footer">
+                                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="modal fade" id="federationModal" tabindex="-1" role="dialog" aria-labelledby="federationModalTitle" aria-hidden="true">
+                        <div class="modal-dialog modal-dialog-centered" role="document">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <h5 class="modal-title" id="federationModalTitle">The Galactic Federation</h5>
+                                    </button>
+                                </div>
+                                <div class="modal-body">
+                                    Formed in 2000cc (Cosmic Calendar), the Galactic Federation is an alliance between many of the Galaxy's planets. Although the Federation was created with good intentions, signs of corruption have been identified in more recent years.
+                                </div>
+                                <div class="modal-footer">
+                                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="accordion-item">
+            <h2 class="accordion-header" id="zeroMissionHeader">
+                <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#zeroMission" aria-expanded="true" aria-controls="zeroMission">Metroid /
+                    Metroid Zero
+                    Mission</button>
+            </h2>
+            <div id="zeroMission" class="accordion-collapse collapse" aria-labelledby="zeroMissionHeader" data-bs-parent="#timeline">
+                <div class="accordion-body">
+                    <div>
+                        <img src="images/metroidnes.jpg">
+                        <img src="images/metroidzm.jpg">
+                    </div>
+                    Samus explores the planet <a class="loreModal" type="button" data-bs-toggle="modal" data-bs-target="#zebesModal">Zebes</a> to destroy the <a class="loreModal" type="button" data-bs-toggle="modal" data-bs-target="#pirateModal">Space Pirates</a>                    and stop them from exploiting the <a class="loreModal" type="button" data-bs-toggle="modal" data-bs-target="#metroidModal">Metroid</a> species for galactic domination. She destroys <a class="loreModal" type="button" data-bs-toggle="modal"
+                        data-bs-target="#kraidModal">Kraid</a>,
+                    <a class="loreModal" type="button" data-bs-toggle="modal" data-bs-target="#ridleyModal">Ridley</a>, and the traitorous Chozo-created <a class="loreModal" type="button" data-bs-toggle="modal" data-bs-target="#mbModal">Mother Brain</a>.
+                    After escaping Zebes, Samus is ambushed by Space Pirates and crash-lands back onto the surface of Zebes. With her Power Suit disabled and Gunship destroyed, she infiltrates the Space Pirate Mothership to find a way to finally escape.
+                    She receives a Fully Powered Suit from the ruins of <a class="loreModal" type="button" data-bs-toggle="modal" data-bs-target="#chozodiaModal">Chozodia</a>, destroys the Ridley Robot, steals an Escape Ship, blows up the Mothership and
+                    escapes Zebes.
+                    <div class="modal fade" id="zebesModal" tabindex="-1" role="dialog" aria-labelledby="zebesModalTitle" aria-hidden="true">
+                        <div class="modal-dialog modal-dialog-centered" role="document">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <h5 class="modal-title" id="zebesModalTitle">Zebes</h5>
+                                    </button>
+                                </div>
+                                <div class="modal-body">
+                                    The Planet Zebes was originally a Chozo colony where Samus Aran spent her younger years training under the Chozo. It was eventually overrun by Space Pirates and remained one of their primary bases of operations. The planet no longer exists after being
+                                    destroyed by Samus in Super Metroid.
+                                </div>
+                                <div class="modal-footer">
+                                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="modal fade" id="pirateModal" tabindex="-1" role="dialog" aria-labelledby="pirateModalTitle" aria-hidden="true">
+                        <div class="modal-dialog modal-dialog-centered" role="document">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <h5 class="modal-title" id="pirateModalTitle">The Space Pirates</h5>
+                                    </button>
+                                </div>
+                                <div class="modal-body">
+                                    The Space Pirates are an alien species hailing from the acid-planet of Urtraghus. They became a major threat around the time the Galactic Federation was formed, and are known for their raids and extremely fast disappearance after said attacks.
+                                </div>
+                                <div class="modal-footer">
+                                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="modal fade" id="metroidModal" tabindex="-1" role="dialog" aria-labelledby="metroidModalTitle" aria-hidden="true">
+                        <div class="modal-dialog modal-dialog-centered" role="document">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <h5 class="modal-title" id="metroidModalTitle">Metroids</h5>
+                                    </button>
+                                </div>
+                                <div class="modal-body">
+                                    Metroids are a Chozo-created species specially designed to combat the X-Parasites. They originated from the planet SR388. They have the power to drain energy from their victims, killing them with no visible injuries.
+                                </div>
+                                <div class="modal-footer">
+                                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="modal fade" id="kraidModal" tabindex="-1" role="dialog" aria-labelledby="kraidModalTitle" aria-hidden="true">
+                        <div class="modal-dialog modal-dialog-centered" role="document">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <h5 class="modal-title" id="kraidModalTitle">Kraid</h5>
+                                    </button>
+                                </div>
+                                <div class="modal-body">
+                                    Kraid is a huge, reptilian, three-eyed Space Pirate, as well as Ridley's right-hand. Although both his appearances have been in the Brinstar sector of Zebes, his origins are unknown.
+                                </div>
+                                <div class="modal-footer">
+                                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="modal fade" id="ridleyModal" tabindex="-1" role="dialog" aria-labelledby="ridleyModalTitle" aria-hidden="true">
+                        <div class="modal-dialog modal-dialog-centered" role="document">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <h5 class="modal-title" id="ridleyModalTitle">Ridley</h5>
+                                    </button>
+                                </div>
+                                <div class="modal-body">
+                                    Leader of the infamous Space Pirates, Ridley is a sadistic, bloodthirsty, Pterodactyl-like alien. One of his titles is "Cunning God of Death"; fitting for a creature that has decimated colonies and civilizations, including planet K-2L, Samus's homeworld.
+                                    Ridley has been Samus's main rival throughout the entire Metroid series.
+                                </div>
+                                <div class="modal-footer">
+                                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="modal fade" id="mbModal" tabindex="-1" role="dialog" aria-labelledby="mbModalTitle" aria-hidden="true">
+                        <div class="modal-dialog modal-dialog-centered" role="document">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <h5 class="modal-title" id="mbModalTitle">Mother Brain</h5>
+                                    </button>
+                                </div>
+                                <div class="modal-body">
+                                    Mother Brain: a Chozo-created AI that turned on them when Space Pirates invaded Zebes. After being destroyed by Samus the first time, Pirates rebuilt her and gave her a second, more powerful form. A copy of her consciousness also caused the events of
+                                    Other M.
+                                </div>
+                                <div class="modal-footer">
+                                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="modal fade" id="chozodiaModal" tabindex="-1" role="dialog" aria-labelledby="chozodiaModalTitle" aria-hidden="true">
+                        <div class="modal-dialog modal-dialog-centered" role="document">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <h5 class="modal-title" id="chozodiaModalTitle">Chozodia</h5>
+                                    </button>
+                                </div>
+                                <div class="modal-body">
+                                    A Chozo temple that was used for many rituals and ceremonies, the ruins of this area have long been abandoned ever since the arrival of the Space Pirates. Remnants of the Wrecked Ship were here as well, later to be discovered by Samus in Super Metroid.
+                                </div>
+                                <div class="modal-footer">
+                                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="accordion-item">
+            <h2 class="accordion-header" id="primeHeader">
+                <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#prime" aria-expanded="true" aria-controls="prime">Metroid Prime</button>
+            </h2>
+            <div id="prime" class="accordion-collapse collapse" aria-labelledby="primeHeader" data-bs-parent="#timeline">
+                <div class="accordion-body">
+                    <div><img src="images/metroidprime.jpg"></div>
+                    Samus intercepts a distress signal from the Frigate Orpheon, a Space Pirate vessel orbiting the planet <a class="loreModal" type="button" data-bs-toggle="modal" data-bs-target="#tallonModal">Tallon
+                        IV</a>, which had been overrun by Parasites and their Queen. Samus destroys the Queen and the Orpheon and follows a resurrected, cybernetically enhanced Ridley to Tallon IV. She then finds that the Chozo had settled on the planet,
+                    but disappeared due to a mysterious object crashing into the planet and releasing a radioactive substance dubbed <a class="loreModal" type="button" data-bs-toggle="modal" data-bs-target="#phazonModal">Phazon</a>. The Space Pirates
+                    have set up mines to harvest the Phazon to create enhanced weaponry and armor. Samus sabotages the mines, destroys Meta-Ridley, and defeats the <a class="loreModal" type="button" data-bs-toggle="modal" data-bs-target="#mpModal">Metroid Prime</a>;
+                    the main source of Phazon inside of the Impact Crater. The Metroid Prime absorbs the Phazon Suit Samus acquired, and becomes <a class="loreModal" type="button" data-bs-toggle="modal" data-bs-target="#darkSamusModal">Dark Samus</a>.
+                    <div class="modal fade" id="tallonModal" tabindex="-1" role="dialog" aria-labelledby="tallonModalTitle" aria-hidden="true">
+                        <div class="modal-dialog modal-dialog-centered" role="document">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <h5 class="modal-title" id="tallonModalTitle">Tallon IV</h5>
+                                    </button>
+                                </div>
+                                <div class="modal-body">
+                                    What was once a biological paradise inhabited by the Chozo, Tallon IV became a desolate planet after the arrival of a Leviathan Seed from the planet Phaaze. After the meteor's impact, the radioactive substance Phazon infected the planet, along with the
+                                    Metroid Prime. Any inhabitants that stayed on the planet after the Seed hit either died, or became the savage Chozo Ghosts that dwell in the deep parts of the planet.
+                                </div>
+                                <div class="modal-footer">
+                                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="modal fade" id="phazonModal" tabindex="-1" role="dialog" aria-labelledby="phazonModalTitle" aria-hidden="true">
+                        <div class="modal-dialog modal-dialog-centered" role="document">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <h5 class="modal-title" id="phazonModalTitle">Phazon</h5>
+                                    </button>
+                                </div>
+                                <div class="modal-body">
+                                    A radioactive substance hailing from the planet Phaaze, phazon is highly dangerous, yet extremely powerful in the hands of those who can harness its power.
+                                </div>
+                                <div class="modal-footer">
+                                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="modal fade" id="mpModal" tabindex="-1" role="dialog" aria-labelledby="mpModalTitle" aria-hidden="true">
+                        <div class="modal-dialog modal-dialog-centered" role="document">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <h5 class="modal-title" id="mpModalTitle">Metroid Prime</h5>
+                                    </button>
+                                </div>
+                                <div class="modal-body">
+                                    The Metroid Prime is a highly mutated Metroid that has gained the ability to produce phazon.
+                                </div>
+                                <div class="modal-footer">
+                                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="modal fade" id="darkSamusModal" tabindex="-1" role="dialog" aria-labelledby="darkSamusModalTitle" aria-hidden="true">
+                        <div class="modal-dialog modal-dialog-centered" role="document">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <h5 class="modal-title" id="darkSamusModalTitle">Dark Samus</h5>
+                                    </button>
+                                </div>
+                                <div class="modal-body">
+                                    Dark Samus
+                                </div>
+                                <div class="modal-footer">
+                                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="accordion-item">
+            <h2 class="accordion-header" id="huntersHeader">
+                <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#hunters" aria-expanded="true" aria-controls="hunters">Metroid Prime Hunters</button>
+            </h2>
+            <div id="hunters" class="accordion-collapse collapse" aria-labelledby="huntersHeader" data-bs-parent="#timeline">
+                <div class="accordion-body">
+                    <div>
+                        <img src="images/metroidprimehunters.jpg" height="25%" width="25%">
+                    </div>
+                    The Galactic Federation gets a weird telepathic message from the Alimbic Cluster. Samus is sent there to find the "Ultimate Power" that was mentioned in the message. 6 rival Bounty Hunters, Trace, Weavel, Noxus, Spire, Kanden, and Sylux also hear the
+                    message and try to find the Power before the others. The Ultimate Power is revealed to be a lie by Gorea, a creature sealed by the Alimbics in an interdimensional prison. After its defeat, Samus and the other hunters escape.
+                </div>
+            </div>
+        </div>
+        <div class="accordion-item">
+            <h2 class="accordion-header" id="prime2Header">
+                <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#prime2" aria-expanded="true" aria-controls="prime2">Metroid Prime 2</button>
+            </h2>
+            <div id="prime2" class="accordion-collapse collapse" aria-labelledby="prime2Header" data-bs-parent="#timeline">
+                <div class="accordion-body">
+                    <div>
+                        <img src="images/metroidprime2.jpg" alt="">
+                    </div>
+                    Samus goes to planet Aether after the G.F.S. Tyr lost communications with the Galactic Federation. The crew is found dead, by the hands of the evil race called the Ing. Samus meets U-Mos, one of the last surviving members of the Luminoth race, native
+                    to Aether. She learns that the planet had been split into two dimensions by a meteor similar to Tallon IV's crash site. Samus restores the Light of Aether to the planet, destroying the Ing and Dark Aether. Dark Samus is also present
+                    throughout the campaign, harvesting Phazon to increase its power.
+                </div>
+            </div>
+        </div>
+        <div class="accordion-item">
+            <h2 class="accordion-header" id="prime3Header">
+                <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#prime3" aria-expanded="true" aria-controls="prime3">Metroid Prime 3</button>
+            </h2>
+            <div id="prime3" class="accordion-collapse collapse" aria-labelledby="prime3Header" data-bs-parent="#timeline">
+                <div class="accordion-body">
+                    <div>
+                        <img src="images/metroidprime3.jpg" height="25%" width="25%">
+                    </div>
+                    The Galactic Federation calls on Samus and three other Bounty Hunters to investigate Pirate operations and to repair Aurora Units. The Pirates attack Norion, a nearby planet, during the briefing. Samus and the other Bounty Hunters repair the Defense Cannon
+                    to repel a Leviathan Seed launched by Dark Samus and the Pirates, but the Hunters are corrupted by Phazon before they can do anything. Samus wakes up a month later and is given a PED Suit and the mission to destroy the remaining Leviathan
+                    Seeds and find the other Bounty Hunters that were lost on planets Bryyo, Elysia, and Urtraghus. She has to kill the Hunters, as their corruption became too strong. Samus finally makes it to Phaaze, the source of all Phazon. She destroys
+                    the planet, along with Dark Samus and the rest of the Phazon in the universe.
+                </div>
+            </div>
+        </div>
+        <div class="accordion-item">
+            <h2 class="accordion-header" id="ffHeader">
+                <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#ff" aria-expanded="true" aria-controls="ff">Metroid Prime: Federation Force</button>
+            </h2>
+            <div id="ff" class="accordion-collapse collapse" aria-labelledby="ffHeader" data-bs-parent="#timeline">
+                <div class="accordion-body">
+                    <div>
+                        <img src="images/metroidprimeff.jpg" height="25%" width="25%">
+                    </div>
+                    After Phazon was obliterated from the universe, the Space Pirates were weakened, but still a threat. The Galactic Federation activated Operation Golem; creating Mechs to achieve technical superiority over the Pirates. The Federation Force, a group of
+                    elite marines, pilot these Mechs. They find a major Pirate presence in the Bermuda System, and attempt to destroy them with help from Samus Aran. The Doomseye, an enormous Pirate vessel enters the system, but is destroyed by the Federation
+                    Force.
+                </div>
+            </div>
+        </div>
+        <div class="accordion-item">
+            <h2 class="accordion-header" id="metroid2Header">
+                <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#metroid2" aria-expanded="true" aria-controls="metroid2">Metroid II: Samus Returns</button>
+            </h2>
+            <div id="metroid2" class="accordion-collapse collapse" aria-labelledby="metroid2Header" data-bs-parent="#timeline">
+                <div class="accordion-body">
+                    <div>
+                        <img src="images/metroid2.jpg" height="25%" width="25%">
+                        <img src="images/metroidsamusreturns.jpg" height="25%" width="25%">
+                    </div>
+                    Sometime after the mission in the Bermuda System, the Galactic Federation announces that Metroids are too dangerous to be left alive. After failing multiple times to eradicate them, the Federation sends Samus to destroy the remaining Metroids on their
+                    homeworld: SR388. After killing the final Metroid, she finds an unhatched Metroid egg, and a baby hatches from it. Samus prepares to destroy it, but the Baby Metroid had already imprinted Samus as its mother. Proteus Ridley, the final
+                    cybernetic form of Ridley, attempts to steal the baby Metroid but fails. Samus then gives the Baby to the Space Science Academy for further research into the Metroid species.
+                </div>
+            </div>
+        </div>
+        <div class="accordion-item">
+            <h2 class="accordion-header" id="superMetroidHeader">
+                <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#superMetroid" aria-expanded="true" aria-controls="superMetroid">Super
+                    Metroid</button>
+            </h2>
+            <div id="superMetroid" class="accordion-collapse collapse" aria-labelledby="superMetroidHeader" data-bs-parent="#timeline">
+                <div class="accordion-body">
+                    <div>
+                        <img src="images/supermetroid.jpg" height="25%" width="25%">
+                    </div>
+                    Shortly after giving the Baby Metroid to the Academy, Samus receives a distress signal from them. Ridley followed her from SR388, and steals the Metroid. The research station is destroyed, and Samus follows Ridley to a rebuilt Pirate base on Zebes to
+                    prevent them from cloning more Metroids for use as bioweapons. She kills the Pirate leaders Kraid, Ridley, and the new and improved Mother Brain, destroying Zebes, (saving the animals) and killing the last remaining Metroids.
+                </div>
+            </div>
+        </div>
+        <div class="accordion-item">
+            <h2 class="accordion-header" id="othermHeader">
+                <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#otherm" aria-expanded="true" aria-controls="otherm">Metroid: Other M</button>
+            </h2>
+            <div id="otherm" class="accordion-collapse collapse" aria-labelledby="othermHeader" data-bs-parent="#timeline">
+                <div class="accordion-body">
+                    <div>
+                        <img src="images/metroidotherm.png" height="20%" width="20%">
+                    </div>
+                    After the destruction of the Metroids and Mother Brain, Samus went into rehabilitation and had the Baby Metroid's DNA extracted from her Power Suit. She then recieves a distress signal from a derelict Federation vessel, the BOTTLE SHIP. Samus meets the
+                    07th Platoon and Adam Malkovich, her former CO. They explore the ship together and find that some rogue Federation scientists cloned Ridley and recreated Metroids, without their ice weakness. Adam sacrifices himself to destroy the
+                    Metroid sector of the ship, while Samus finds the Queen Metroid and exterminates the Metroid species once again.
+                </div>
+            </div>
+        </div>
+        <div class="accordion-item">
+            <h2 class="accordion-header" id="fusionHeader">
+                <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#fusion" aria-expanded="true" aria-controls="fusion">Metroid Fusion</button>
+            </h2>
+            <div id="fusion" class="accordion-collapse collapse" aria-labelledby="fusionHeader" data-bs-parent="#timeline">
+                <div class="accordion-body">
+                    <div>
+                        <img src="images/metroidfusion.jpg" alt="">
+                    </div>
+                    Samus returns to planet SR388 as a bodyguard for Biologic's research team, but is infected by the X-Parasite. Her Power Suit is surgically removed by Federation doctors and she is given a vaccine that contains Metroid DNA. This gives her Power Suit the
+                    ability to absorb X-Parasites, but also gives her a weakness to ice. Samus is sent to search the Biologic Space Laboratories research station for a disturbance that appeared. The researchers attempted to contain Samus's original infected
+                    Power Suit, but it turned out to be an X mimicking Samus- The SA-X. The SA-X released other X-Parasites to infect the entire station; while Samus works to stop the infection, she discovers a secret lab with Metroids which the SA-X
+                    destroys. She also discovers that there are at least 10 SA-X through the X's asexual reproduction. With the help of the ship's computer, a digital version of Adam Malkovich, she crashes the station into SR388, destroying all X on the
+                    station and the planet.
+                </div>
+            </div>
+        </div>
+        <div class="accordion-item">
+            <h2 class="accordion-header" id="dreadHeader">
+                <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#dread" aria-expanded="true" aria-controls="dread">Metroid Dread</button>
+            </h2>
+            <div id="dread" class="accordion-collapse collapse" aria-labelledby="dreadHeader" data-bs-parent="#timeline">
+                <div class="accordion-body">
+                    <img src="images/metroiddread.jpg" height="50%" width="50%">
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+    <script src="timeline.js"></script>
+</body>
+
+</html>

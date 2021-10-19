@@ -1,0 +1,611 @@
+1. Metroid (Zero Mission)
+    Biological
+        Acid Worm
+        Atomic
+        Baristute
+        Charge Beam Beast
+        Dessgeega
+        Dragon
+        Gadora
+        Gamet
+        Geega
+        Geruta
+        Holtz
+        Imago
+        Kiru Giru
+        Mella
+        Mellow
+        Metroid Larva
+        Multiviola
+        Parasite
+        Reo
+        Ripper
+        Ripper II
+        Sidehopper
+        Skree
+        Skultera
+        Sova 
+        Squeept
+        Tangle Vine
+        Viola
+        Waver
+        Winged Ripper
+        Zeb
+        Zebbo
+        Zeela
+        Zoomer
+    Space Pirate/Mechanical
+        Cannon
+        Mother Brain
+        Polyp
+        Kraid
+        Ridley
+        Ridley Robot
+        Rinka
+        Ruins Test
+        Work Robot
+        Zebesian
+        Zebetite
+
+2. Metroid Prime
+    Biological
+        Beetle (Ice, Plated)
+        Blastcap
+        Bloodflower
+        Bombu (Invisible Scatter, Scatter, Pulse)
+        Burrower (Ice)
+        Chozo Ghost
+        Crystallite
+        Eyon
+        Flaahgra
+        Flickerbat
+        Geemer
+        Glider
+        Grizby
+        Jelzap
+        Lumigek
+        Magmoor
+        Metroid (Fission, Hunter, Ice, Power, Wave)
+        Metroid Prime
+        Oculus
+        Parasite (Ice, Plated)
+        Parasite Queen
+        Plazmite
+        Puddle Spore
+        Puffer (Plated)
+        Reaper Vine (Aqua)
+        Sap Sac (Aqua)
+        Scarab
+        Seedling
+        Sheegoth (Baby)
+        Shriekbat (Ice)
+        Stone Toad
+        Tallon Crab
+        Tangle Weed (Venom)
+        Triclops
+        War Wasp (Barbed, Ram)
+        War Wasp Hive
+        Zoomer
+    Space Pirate/Mechanical
+        Pirate Drone (Cloaked, Sentry)
+        Elemental Pirates (Wave, Power, Ice, Plasma)
+        Pirate Troopers (Aqua, Elite, Flying, Omega, Shadow)
+        Space Pirate
+        Turret (Auto Defence, Mega)
+        Hive Mecha [Chozo Tech]
+        Incinerator Drone [Chozo Tech]
+        Meta Ridley
+        Phazon Elite
+        Thardus
+
+3. Metroid Prime Hunters
+    Bounty Hunters
+        Kanden
+        Noxus
+        Spire
+        Sylux
+        Trace
+        Weavel
+    Biological    
+        Arctic Spawn
+        Blastcap
+        Fire Spawn
+        Geemer
+        Gorea
+        Ithrak (Lesser, Greater)
+        Petrasyl
+        Quadtroid [Genetically Engineered]
+        Shriekbat
+        Trocra
+        War Wasp (Barbed, Barbed Red, Barbed Blue)
+        Zoomer
+    Alimbic/Mechanical
+        Alimbic Turret (v1.0/v1.4/v2.7)
+        Crash Pillar
+        Cretaphid (v1/v2/v3/v4)
+        Energy Blaster
+        Guardian
+        Psycho Bit (v1/v2/v3/v4)
+        Slench (1A/1B/2A/2B/3A/3B/4A/4B)
+        Voldrum (Electro, Magma, Ice)
+        
+4. Metroid Prime 2: Echoes
+    AETHER
+        Aquatic
+            Hydling
+            Bloggling
+            Blogg
+            Alpha Blogg
+        Flying 
+            Sandbat
+            Lightflyer
+            Lumite
+            War Wasp
+            Shrieker
+            Shriekbat
+            Shredder
+        Ground
+            Pillbug
+            Worker Splinter
+            Green Kralee
+            Brizgee
+            Kralee
+            Seedburster
+            Krocuss
+            Lightbringer
+            Sandigger
+            Alpha Splinter
+            Grenchler
+            Alpha Sandigger
+            Sporb
+            Splinter
+        Mechanoids
+            Drones
+                Harmony Class
+                Diligence Class
+                Serenity Class
+                Caretaker Class
+            Mechlops
+            Rezbit
+            Octopede
+            Turrets
+                Vigilance Class
+                Luminoth
+                GM-42 Growler Class
+                Humility Class
+            Ingsmasher
+            Watchdrone
+            Mekenobite
+            Quad (MB/CM)
+    DARK AETHER
+        Ing
+            Ingstorm
+            Inglet
+            Warrior Ing
+            Ing Larva Swarm
+            Darkling Tentacle
+            Hunter Ing
+            Emperor Ing
+        Guardians
+            Quadraxis
+            Bomb Guardian
+            Jump Guardian
+            Boost Guardian
+            Grapple Guardian
+            Spider Guardian
+            Power Bomb Guardian
+            Amorbis (1/2)
+            Chykka Larva
+            Chykling
+            Chykka
+            Dark Chykka
+        Darklings
+            Dark Blogg
+            Dark Phlogus
+            Dark Grenchler
+            Dark Splinter
+            Dark Alpha Splinter
+            Dark War Wasp
+            Nightbarb
+            Dark Pirate Commando
+            Dark Missile Trooper
+            Dark Tallon Metroid
+            Dark Pirate Trooper
+            Dark Trooper
+            Dark Preed
+            Dark Diligence Drone
+            Dark Quad (MB/CM)
+            Corrupted Sentreye
+            Dark Ingsmasher
+            Airthorn
+    OFFWORLD
+        Pirates
+            Preed
+            Pirate Trooper
+            Grenadier
+            Commando
+            Aerotrooper
+        Tallon Metroid (Infant)
+        Dark Samus
+
+5. Metroid Prime 3: Corruption
+    Biological
+        Aazelion        
+        Hopper (Alpha, Phazon)
+        
+        
+        
+        Bryyo Bee
+        Bryyo Bomb Plant
+        Shriekbat (Bryyonian, Elysian, Phazon, Urtragian)
+        Chozo
+        
+        
+        Crylic Tree
+        Dark Echo
+        Dark Samus
+        
+        
+        
+        
+        Elysian
+        EyeballBlocker
+        Fargul Hatcher
+        Fargul Wasp
+        Federation Marine (PED)
+        Fleet Trooper
+        Fleet Admiral Castor Dane
+        Fleet Mechanic
+        
+        Fungus (Parasitic, Phazon)
+        Gandrayda
+        Geemer
+        Puffer (Gel, Phazon, Mine, Sky)
+        Gel Ray
+        Gelbug
+        Ghor
+        Glow Stem
+        Gragnol
+        
+        Metroid (Hopping, Prime, Phazon)
+        Hyper Grapple Blocker
+        Jelsac
+        
+        Kashh Plant
+        Korba
+        Leviathan
+        Liquid Phazon
+        Maw
+        Metroid Hatcher
+        
+        Miniroid
+        Missile Blocker
+        Mogenar
+        Nightbarb (Phazon)
+        Omega Ridley
+        Parasite Queen
+        Phaaze Door
+        Phaazoid (Red)
+        Phaz-Ing
+        Phazon Grub
+        Phazon Leech
+        Phazon Pillbug
+        Pirate Commander
+        Pirate Hussar
+        Reptilicus (Hunter)
+        Rundas
+        Scarp
+        Scorchbug
+        Scritter
+        Shelbug
+        Snatcher
+        Space Pirate Assault Skiff
+        Space Pirate Atomic
+        Space Pirate Boarding Phaazoid
+        Steambot
+        Steamlord
+        Steamspider
+        Swarmbot
+        Tangle Weed
+        Tinbot
+        Vaporwing
+        Warp Hound
+        Zapper
+        ZipNMEBomber
+    Space Pirate/Mechanical
+        Aerotrooper (Advanced, Armored, Assault)
+        Pirate Trooper (Advanced, Armored, Assault, Shield)
+        Shield Trooper (Advanced, Armored, Assault)
+        Pirate Militia (Armored, Shield)
+        Turret (Despair-Class, Dread-Class, Halberd-Class, Remorse-Class)
+        Berserker (Knight, Lord)
+        Commando Pirate
+        Demolition Trooper
+        Crawlmine
+        Crawltank
+	Jumpmine
+	Korakk
+	Mining Cannon
+        Drone (Dragoon, Jolly Roger, Defence, Phazon Harvester, Pirate Cargo, Repair/Aerial Repair, Training, Transportation)
+        Aurora Unit (217, 242, 313) [Galactic Federation]
+        Databot [Elysian Tech]
+        Floating Object [Elysian Tech]
+        Helios [Elysian Tech]
+
+6. Metroid Prime: Federation Force
+    Architect
+    Armored Bot
+    Bruiser
+    Trooper (Cloaked, Elite)
+    Collosun
+    Cyranon
+    Dropship (Elite)
+    Pirate (Elite, Flying)
+    Eyeflyer
+    Griptorax (Fire, Ice)
+    Hopper (Fire, Ice, Omega)
+    Shriekbat (Fire, Ice)
+    Generator
+    Grim-Class Turret
+    Hover Bot
+    Ice Geemer
+    Ice Titan
+    Mainframe
+    Master Brain
+    Metroid
+    Missile Transport
+    Pirate Warship
+    RB133 Auricrusher
+    Rohkor Beetle
+    Sawken
+    Security Bot
+    Sentinel
+    Sentry Missile
+    Thermo Sphere
+    Zurburat
+
+7. Metroid II (Return of Samus)
+    Alpha Metroid
+    Animworm
+    Arachnus
+    Autoad
+    Autrack
+    Blob Thrower
+    Chute Leech
+    Diggernaut
+    Drivel
+    Fleech Swarm
+    Gamma Metroid
+    Gawron
+    Gigadora
+    Glow Fly
+    Gravitt
+    Gryncore
+    Gullugg
+    Gunzoo
+    Halzyn
+    Hornoad
+    Meboid
+    Metroid Larva
+    Moheek
+    Moto
+    Mumbo
+    Omega Metroid
+    Paraby
+    Proteus Ridley
+    Queen Metroid
+    Ramulken
+    Rock Icicle
+    Taramarga
+    Tsumuri
+    Wallfire
+    Zeta Metroid
+
+8. Super Metroid
+    Alcoon
+    Atomic
+    Beetom
+    Blue Sidehopper
+    Botwoon
+    Boyon
+    Bull
+    Cacatac
+    Choot
+    Covern
+    Crocomire
+    Dachora
+    Dessgeega
+    Dragon
+    Draygon
+    Etecoon
+    Evir
+    Fireflea
+    Fune
+    Gadora
+    Gamet
+    Geega
+    Geemer
+    Geruta
+    Golden Torizon
+    Green Space Pirate
+    Holtz
+    Kago
+    Kihunter 
+    Kraid
+    Magdollite
+    Mella
+    Mellow
+    Memu
+    Metaree
+    Metroid
+    Mini-Kraid
+    Mochtroid
+    Mother Brain
+    Multiviola
+    Namihe
+    Oum
+    Owtch
+    Pink Space Pirate
+    Phantoon
+    Powamp
+    Puromi
+    Puyo
+    Red Space Pirate
+    Reo
+    Ridley
+    Ring Beam Unit
+    Rinka
+    Ripper
+    Ripper II
+    Samus Eater
+    Sbug
+    Sciser
+    Shaktool
+    Sidehopper
+    Silver Space Pirate
+    Skree
+    Skultera
+    Sova
+    Space Pirate
+    Spore Spawn
+    Squeept
+    Suspensor Platform
+    Tatori
+    Tatori Jr.
+    Torizo
+    Tripper
+    Viola
+    Waver
+    Work Robot
+    Yapping Maw
+    Yard
+    Zeb
+    Zebetite
+    Zebbo
+    Zeela
+    Zero
+    Zoa
+
+9. Metroid: Other M
+    Asborean
+    Asborean Spawn
+    Baristute
+    Brug
+    Brug Mass
+    Bull
+    Cyborg Zebesian
+    Cyclaw
+    Desbrachian
+    Dessgeega
+    Dragotix
+    Emperor Brug
+    FG-1000
+    FG II-Graham
+    Fish
+    Fly Pod
+    Fumbleye
+    Fune
+    Geemer
+    Ghalmanian
+    Gigafraug
+    Goyagma
+    Griptian
+    Groganch
+    Heat Bull
+    Himella
+    Joulion
+    Kihunter
+    King Kihunter
+    Kyratian
+    Magdollite
+    Mella
+    Metroid
+    Mighty Griptian
+    Namihe
+    Nightmare
+    Phantoon
+    Pow
+    Queen Metroid
+    RB176 Ferrocrusher
+    Rage Hand
+    Reo
+    Rhedogian
+    Ridley
+    Rinka
+    Sandfang
+    Sidehopper
+    Skree
+    Skultera
+    Snomer
+    Sova
+    Super Kihunter
+    Super Zebesian
+    Volfon
+    Vorash
+    Wadge
+    Waver
+    Whipvine
+    Zebesian
+    Zero
+    Zuru
+
+10. Metroid Fusion
+    Alpha Metroid
+    Arachnus
+    Barrier Core-X
+    Bull
+    Choot
+    Core-X
+    Dachora
+    Dessgeega
+    Etecoon
+    Evir
+    Fake Missile Tank
+    False Energy Tank
+    Fune
+    Gadora
+    Gamma Metroid
+    Geemer
+    Genesis
+    Geron (Air System)
+    Gerubus
+    Geruta
+    Gold Sciser
+    Gold Space Pirate
+    Halzyn
+    Hornoad
+    Kago
+    Kihunter
+    Menu
+    Moto
+    Neo-Ridley
+    Namihe
+    Nova
+    Nettori
+    Nightmare
+    Omega Metroid
+    Owtch
+    Powamp
+    Puyo
+    Reo
+    Ripper
+    SA-X
+    Samus Eater
+    Sciser
+    Security Robot B.O.X.
+    Serris
+    Sidehopper
+    Skultera
+    Waver
+    X-Parasite
+    Yakuza
+    Yameba
+    Yard
+    Zazabi
+    Zebesian (Aqua)
+    Zeela
+    Zero
+    Zeta Metroid
+    Zombie Researcher
+    Zozoro
+

@@ -1,0 +1,3006 @@
+{
+    "mzm": {
+        "name": "Metroid Zero Mission",
+        "creatures": {
+            "acid_worm": {
+                "name": "Acid Worm",
+                "creature_type": "biological",
+                "boss": true
+            },
+            "atomic": {
+                "name": "Atomic",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "baristute": {
+                "name": "Baristute",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "cbb": {
+                "name": "Charge Beam Beast",
+                "creature_type": "biological",
+                "boss": true
+            },
+            "dessgeega": {
+                "name": "Dessgeega",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "dragon": {
+                "name": "Dragon",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "gadora": {
+                "name": "Gadora",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "gamet": {
+                "name": "Gamet",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "geega": {
+                "name": "Geega",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "geruta": {
+                "name": "Geruta",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "holtz": {
+                "name": "Holtz",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "imago": {
+                "name": "Imago",
+                "creature_type": "biological",
+                "boss": true
+            },
+            "kiru_giru": {
+                "name": "Kiru Giru",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "mella": {
+                "name": "Mella",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "mellow": {
+                "name": "Mellow",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "metroid_l": {
+                "name": "Metroid Larva",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "multiviola": {
+                "name": "Multiviola",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "parasite": {
+                "name": "Parasite",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "reo": {
+                "name": "Reo",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "ripper": {
+                "name": "Ripper",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "ripper2": {
+                "name": "Ripper II",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "sidehopper": {
+                "name": "Sidehopper",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "skree": {
+                "name": "Skree",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "skultera": {
+                "name": "Skultera",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "sova": {
+                "name": "Sova",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "squeept": {
+                "name": "Squeept",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "tangle_vine": {
+                "name": "Tangle Vine",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "viola": {
+                "name": "Viola",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "waver": {
+                "name": "Waver",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "ripper_w": {
+                "name": "Winged Ripper",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "zeb": {
+                "name": "Zeb",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "zebbo": {
+                "name": "Zebbo",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "zeela": {
+                "name": "Atomic",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "zoomer": {
+                "name": "Zoomer",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "cannon": {
+                "name": "Cannon",
+                "creature_type": "mechanical",
+                "boss": false
+            },
+            "mother_brain": {
+                "name": "Mother Brain",
+                "creature_type": "pirate",
+                "boss": true
+            },
+            "polyp": {
+                "name": "Polyp",
+                "creature_type": "pirate",
+                "boss": false
+            },
+            "kraid": {
+                "name": "Kraid",
+                "creature_type": "pirate",
+                "boss": true
+            },
+            "ridley": {
+                "name": "Ridley",
+                "creature_type": "pirate",
+                "boss": true
+            },
+            "ridley_r": {
+                "name": "Ridley Robot",
+                "creature_type": "pirate",
+                "boss": true
+            },
+            "rinka": {
+                "name": "Atomic",
+                "creature_type": "mechanical",
+                "boss": false
+            },
+            "ruins_test": {
+                "name": "Ruins Test",
+                "creature_type": "mechanical",
+                "boss": true
+            },
+            "work_robot": {
+                "name": "Work Robot",
+                "creature_type": "mechanical",
+                "boss": false
+            },
+            "zebesian": {
+                "name": "Zebesian",
+                "creature_type": "pirate",
+                "boss": false
+            },
+            "zebetite": {
+                "name": "Atomic",
+                "creature_type": "mechanical",
+                "boss": false
+            }
+        }
+    },
+    "mp": {
+        "name": "Metroid Prime",
+        "creatures": {
+            "beetle": {
+                "name": "Beetle",
+                "creature_type": "biological",
+                "boss": false,
+                "variant": [
+                    "Ice", "Plated"
+                ]
+            },
+            "blastcap": {
+                "name": "Blastcap",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "bloodflower": {
+                "name": "Bloodflower",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "bombu": {
+                "name": "Bombu",
+                "creature_type": "biological",
+                "boss": false,
+                "variant": [
+                    "Invisible Scatter", "Scatter", "Pulse"
+                ]
+            },
+            "burrower": {
+                "name": "Burrower",
+                "creature_type": "biological",
+                "boss": false,
+                "variant": [
+                    "Ice"
+                ]
+            },
+            "chozo_ghost": {
+                "name": "Chozo Ghost",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "crystallite": {
+                "name": "Crystallite",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "eyon": {
+                "name": "Eyon",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "flaahgra": {
+                "name": "Flaahgra",
+                "creature_type": "biological",
+                "boss": true
+            },
+            "flickerbat": {
+                "name": "Flickerbat",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "geemer": {
+                "name": "Geemer",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "glider": {
+                "name": "Glider",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "grizby": {
+                "name": "Grizby",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "jelzap": {
+                "name": "Jelzap",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "lumigek": {
+                "name": "Lumigek",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "magmoor": {
+                "name": "Magmoor",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "metroid": {
+                "name": "Metroid",
+                "creature_type": "biological",
+                "boss": false,
+                "variant": [
+                    "Fission", "Hunter", "Ice", "Power", "Wave"
+                ]
+            },
+            "metroid_prime": {
+                "name": "Metroid Prime",
+                "creature_type": "biological",
+                "boss": true
+            },
+            "oculus": {
+                "name": "Oculus",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "parasite": {
+                "name": "Parasite",
+                "creature_type": "biological",
+                "boss": false,
+                "variant": [
+                    "Ice", "Plated"
+                ]
+            },
+            "parasite_queen": {
+                "name": "Parasite Queen",
+                "creature_type": "biological",
+                "boss": true
+            },
+            "plazmite": {
+                "name": "Plazmite",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "puddle_spore": {
+                "name": "Puddle Spore",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "puffer": {
+                "name": "Puffer",
+                "creature_type": "biological",
+                "boss": false,
+                "variant": [
+                    "Plated"
+                ]
+            },
+            "reaper_vine": {
+                "name": "Reaper Vine",
+                "creature_type": "biological",
+                "boss": false,
+                "variant": [
+                    "Aqua"
+                ]
+            },
+            "sap_sac": {
+                "name": "Sap Sac",
+                "creature_type": "biological",
+                "boss": false,
+                "variant": [
+                    "Aqua"
+                ]
+            },
+            "scarab": {
+                "name": "Scarab",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "seedling": {
+                "name": "Seedling",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "sheegoth": {
+                "name": "Sheegoth",
+                "creature_type": "biological",
+                "boss": false,
+                "variant": [
+                    "Baby"
+                ]
+            },
+            "shriekbat": {
+                "name": "Shriekbat",
+                "creature_type": "biological",
+                "boss": false,
+                "variant": [
+                    "Ice"
+                ]
+            },
+            "stone_toad": {
+                "name": "Stone Toad",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "tallon_crab": {
+                "name": "Tallon Crab",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "tangle_weed": {
+                "name": "Tangle Weed",
+                "creature_type": "biological",
+                "boss": false,
+                "variant": [
+                    "Venom"
+                ]
+            },
+            "triclops": {
+                "name": "Triclops",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "war_wasp": {
+                "name": "War Wasp",
+                "creature_type": "biological",
+                "boss": false,
+                "variant": [
+                    "Barbed", "Ram"
+                ]
+            },
+            "war_wasp_hive": {
+                "name": "War Wasp Hive",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "zoomer": {
+                "name": "Zoomer",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "drone": {
+                "name": "Pirate Drone",
+                "creature_type": "pirate",
+                "boss": false,
+                "variant": [
+                    "Cloaked", "Sentry"
+                ]
+            },
+            "element_pirates": {
+                "name": "Elemental Pirates",
+                "creature_type": "pirate",
+                "boss": false,
+                "variant": [
+                    "Wave", "Power", "Ice", "Plasma"
+                ]
+            },
+            "trooper": {
+                "name": "Pirate Trooper",
+                "creature_type": "pirate",
+                "boss": false,
+                "variant": [
+                    "Aqua", "Elite", "Flying", "Shadow"
+                ]
+            },
+            "omega_pirate": {
+                "name": "Omega Pirate",
+                "creature_type": "pirate",
+                "boss": true
+            },
+            "pirate": {
+                "name": "Space Pirate",
+                "creature_type": "pirate",
+                "boss": false
+            },
+            "turret": {
+                "name": "turret",
+                "creature_type": "mechanical",
+                "boss": false,
+                "variant": [
+                    "Auto Defence", "Mega"
+                ]
+            },
+            "hive_mecha": {
+                "name": "Hive Mecha",
+                "creature_type": "mechanical",
+                "boss": true
+            },
+            "incinerator": {
+                "name": "Incinerator Drone",
+                "creature_type": "mechanical",
+                "boss": true
+            },
+            "meta_ridley": {
+                "name": "Meta Ridley",
+                "creature_type": "pirate",
+                "boss": true
+            },
+            "phazon_elite": {
+                "name": "Phazon Elite",
+                "creature_type": "pirate",
+                "boss": false
+            },
+            "thardus": {
+                "name": "Thardus",
+                "creature_type": "pirate",
+                "boss": true
+            }
+
+        }
+    },
+    "mph": {
+        "name": "Metroid Prime Hunters",
+        "creatures": {
+            "kanden": {
+                "name": "Kanden",
+                "creature_type": "bounty hunter",
+                "boss": true
+            },
+            "noxus": {
+                "name": "Noxus",
+                "creature_type": "bounty hunter",
+                "boss": true
+            },
+            "spire": {
+                "name": "Spire",
+                "creature_type": "bounty hunter",
+                "boss": true
+            },
+            "sylux": {
+                "name": "Sylux",
+                "creature_type": "bounty hunter",
+                "boss": true
+            },
+            "trace": {
+                "name": "Trace",
+                "creature_type": "bounty hunter",
+                "boss": true
+            },
+            "weavel": {
+                "name": "Weavel",
+                "creature_type": "bounty hunter",
+                "boss": true
+            },
+            "arctic_spawn": {
+                "name": "Arctic Spawn",
+                "creature_type": "biological",
+                "boss": true
+            },
+            "blastcap": {
+                "name": "Blastcap",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "fire_spawn": {
+                "name": "Fire Spawn",
+                "creature_type": "biological",
+                "boss": true
+            },
+            "geemer": {
+                "name": "Geemer",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "gorea": {
+                "name": "Gorea",
+                "creature_type": "biological",
+                "boss": true
+            },
+            "ithrak": {
+                "name": "Ithrak",
+                "creature_type": "biological",
+                "boss": false,
+                "variant": [
+                    "Lesser", "Greater"
+                ]
+            },
+            "petrasyl": {
+                "name": "Petrasyl",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "quadtroid": {
+                "name": "Quadtroid",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "shriekbat": {
+                "name": "Shriekbat",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "trocra": {
+                "name": "Trocra",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "war_wasp": {
+                "name": "War Wasp",
+                "creature_type": "biological",
+                "boss": false,
+                "variant": [
+                    "Barbed", "Barbed Red", "Barbed Blue"
+                ]
+            },
+            "zoomer": {
+                "name": "Zoomer",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "turret": {
+                "name": "Alimbic Turret",
+                "creature_type": "mechanical",
+                "boss": false,
+                "variant": [
+                    "v1.0", "v1.4", "v2.7"
+                ]
+            },
+            "crash_pillar": {
+                "name": "Crash Pillar",
+                "creature_type": "mechanical",
+                "boss": false
+            },
+            "cretaphid": {
+                "name": "Cretaphid",
+                "creature_type": "mechanical",
+                "boss": true,
+                "variant": [
+                    "v1", "v2", "v3", "v4"
+                ]
+            },
+            "energy_blaster": {
+                "name": "Energy Blaster",
+                "creature_type": "mechanical",
+                "boss": false
+            },
+            "guardian": {
+                "name": "Guardian",
+                "creature_type": "mechanical",
+                "boss": false
+            },
+            "psycho_bit": {
+                "name": "Psycho Bit",
+                "creature_type": "mechanical",
+                "boss": false
+            },
+            "slench": {
+                "name": "Slench",
+                "creature_type": "mechanical",
+                "boss": true,
+                "variant": [
+                    "1A/B", "2A/B", "3A/B", "4A/B"
+                ]
+            },
+            "voldrum": {
+                "name": "Voldrum",
+                "creature_type": "mechanical",
+                "boss": false,
+                "variant": [
+                    "Electro", "Magma", "Ice"
+                ]
+            }
+
+        }
+    },
+    "mp2": {
+        "name": "Metroid Prime 2: Echoes",
+        "creatures": {
+            "hydling": {
+                "name": "Hydling",
+                "creature_type": "biological",
+                "boss": false,
+                "location": "Aether"
+            },
+            "bloggling": {
+                "name": "Bloggling",
+                "creature_type": "biological",
+                "boss": false,
+                "location": "Aether"
+            },
+            "blogg": {
+                "name": "Blogg",
+                "creature_type": "biological",
+                "boss": false,
+                "location": "Aether"
+            },
+            "alpha_blogg": {
+                "name": "Alpha Blogg",
+                "creature_type": "biological",
+                "boss": true,
+                "location": "Aether"
+            },
+            "sandbat": {
+                "name": "Sandbat",
+                "creature_type": "biological",
+                "boss": false,
+                "location": "Aether"
+            },
+            "lightflyer": {
+                "name": "Lightflyer",
+                "creature_type": "biological",
+                "boss": false,
+                "location": "Aether"
+            },
+            "shrieker": {
+                "name": "Shrieker",
+                "creature_type": "biological",
+                "boss": false,
+                "location": "Aether"
+            },
+            "shriekbat": {
+                "name": "Shriekbat",
+                "creature_type": "biological",
+                "boss": false,
+                "location": "Aether"
+            },
+            "shredder": {
+                "name": "Shredder",
+                "creature_type": "biological",
+                "boss": false,
+                "location": "Aether"
+            },
+            "pillbug": {
+                "name": "Pillbug",
+                "creature_type": "biological",
+                "boss": false,
+                "location": "Aether"
+            },
+            "splinter": {
+                "name": "Worker Splinter",
+                "creature_type": "biological",
+                "boss": false,
+                "location": "Aether",
+                "variant": [
+                    "Worker", "Alpha"
+                ]
+            },
+            "kralee": {
+                "name": "Kralee",
+                "creature_type": "biological",
+                "boss": false,
+                "location": "Aether",
+                "variant": [
+                    "Green"
+                ]
+            },
+            "brizgee": {
+                "name": "Brizgee",
+                "creature_type": "biological",
+                "boss": false,
+                "location": "Aether"
+            },
+            "seedburster": {
+                "name": "Seedburster",
+                "creature_type": "biological",
+                "boss": false,
+                "location": "Aether"
+            },
+            "krocuss": {
+                "name": "Krocuss",
+                "creature_type": "biological",
+                "boss": false,
+                "location": "Aether"
+            },
+            "lightbringer": {
+                "name": "Lightbringer",
+                "creature_type": "biological",
+                "boss": false,
+                "location": "Aether"
+            },
+            "sandigger": {
+                "name": "Sandigger",
+                "creature_type": "biological",
+                "boss": false,
+                "location": "Aether",
+                "variant": [
+                    "Alpha"
+                ]
+            },
+            "grenchler": {
+                "name": "Grenchler",
+                "creature_type": "biological",
+                "boss": false,
+                "location": "Aether"
+            },
+            "sporb": {
+                "name": "Blogg",
+                "creature_type": "biological",
+                "boss": false,
+                "location": "Aether"
+            },
+            "drone": {
+                "name": "Drone",
+                "creature_type": "mechanical",
+                "boss": false,
+                "location": "Aether",
+                "variant": [
+                    "Harmony", "Diligence", "Serenity", "Caretaker"
+                ]
+            },
+            "mechlops": {
+                "name": "Mechlops",
+                "creature_type": "mechanical",
+                "boss": false,
+                "location": "Aether"
+            },
+            "rezbit": {
+                "name": "Rezbit",
+                "creature_type": "mechanical",
+                "boss": false,
+                "location": "Aether"
+            },
+            "octopede": {
+                "name": "Octopede",
+                "creature_type": "mechanical",
+                "boss": false,
+                "location": "Aether"
+            },
+            "turret": {
+                "name": "Turret",
+                "creature_type": "mechanical",
+                "boss": false,
+                "location": "Aether",
+                "variant": [
+                    "Vigilance", "Luminoth", "GM-42 Growler", "Humility"
+                ]
+            },
+            "ingsmasher": {
+                "name": "Ingsmasher",
+                "creature_type": "mechanical",
+                "boss": false,
+                "location": "Aether"
+            },
+            "watchdrone": {
+                "name": "Watchdrone",
+                "creature_type": "mechanical",
+                "boss": false,
+                "location": "Aether"
+            },
+            "mekenobite": {
+                "name": "Mekenobite",
+                "creature_type": "mechanical",
+                "boss": false,
+                "location": "Aether"
+            },
+            "quad": {
+                "name": "Quad",
+                "creature_type": "mechanical",
+                "boss": false,
+                "location": "Aether",
+                "variant": [
+                    "MB", "CM"
+                ]
+            },
+            "ing": {
+                "name": "Ing",
+                "creature_type": "biological",
+                "boss": false,
+                "location": "Dark Aether",
+                "variant": [
+                    "Warrior", "Hunter"
+                ]
+            },
+            "ing_emperor": {
+                "name": "Emperor Ing",
+                "creature_type": "biological",
+                "boss": true,
+                "location": "Dark Aether"
+            },
+            "ingstorm": {
+                "name": "Ingstorm",
+                "creature_type": "biological",
+                "boss": false,
+                "location": "Dark Aether"
+            },
+            "ing_larva": {
+                "name": "Ing Larva Swarm",
+                "creature_type": "biological",
+                "boss": false,
+                "location": "Aether"
+            },
+            "dark_tentacle": {
+                "name": "Darkling Tentacle",
+                "creature_type": "biological",
+                "boss": false,
+                "location": "Dark Aether"
+            },
+            "quadraxis": {
+                "name": "Quadraxis",
+                "creature_type": "mechanical",
+                "boss": true,
+                "location": "Dark Aether"
+            },
+            "guardian": {
+                "name": "Guardian",
+                "creature_type": "biological",
+                "boss": true,
+                "location": "Dark Aether",
+                "variant": [
+                    "Bomb", "Jump", "Boost", "Grapple", "Spider", "Power Bomb"
+                ]
+            },
+            "amorbis": {
+                "name": "Amorbis",
+                "creature_type": "biological",
+                "boss": true,
+                "location": "Dark Aether"
+            },
+            "chykka": {
+                "name": "Chykka",
+                "creature_type": "biological",
+                "boss": true,
+                "location": "Dark Aether",
+                "variant": [
+                    "Larva", "Chykling", "Dark"
+                ]
+            },
+            "dark_blogg": {
+                "name": "Dark Blogg",
+                "creature_type": "biological",
+                "boss": false,
+                "location": "Dark Aether"
+            },
+            "dark_phlogus": {
+                "name": "Dark Phlogus",
+                "creature_type": "biological",
+                "boss": false,
+                "location": "Dark Aether"
+            },
+            "dark_grenchler": {
+                "name": "Dark Grenchler",
+                "creature_type": "biological",
+                "boss": false,
+                "location": "Dark Aether"
+            },
+            "dark_splinter": {
+                "name": "Dark Splinter",
+                "creature_type": "biological",
+                "boss": false,
+                "location": "Dark Aether",
+                "variant": [
+                    "Alpha"
+                ]
+            },
+            "dark_ww": {
+                "name": "Dark War Wasp",
+                "creature_type": "biological",
+                "boss": false,
+                "location": "Dark Aether"
+            },
+            "nightbarb": {
+                "name": "Nightbarb",
+                "creature_type": "biological",
+                "boss": false,
+                "location": "Dark Aether"
+            },
+            "dark_commando": {
+                "name": "Dark Pirate Commando",
+                "creature_type": "pirate",
+                "boss": false,
+                "location": "Dark Aether"
+            },
+            "dark_trooper": {
+                "name": "Dark Trooper",
+                "creature_type": "pirate",
+                "boss": false,
+                "location": "Dark Aether",
+                "variant": [
+                    "Missile", "Pirate"
+                ]
+            },
+            "dark_metroid": {
+                "name": "Dark Tallon Metroid",
+                "creature_type": "biological",
+                "boss": false,
+                "location": "Dark Aether"
+            },
+            "dark_preed": {
+                "name": "Dark Phlogus",
+                "creature_type": "pirate",
+                "boss": false,
+                "location": "Dark Aether"
+            },
+            "dark_drone": {
+                "name": "Dark Diligence Drone",
+                "creature_type": "mechanical",
+                "boss": false,
+                "location": "Dark Aether"
+            },
+            "dark_quad": {
+                "name": "Dark Quad",
+                "creature_type": "mechanical",
+                "boss": false,
+                "location": "Dark Aether",
+                "variant": [
+                    "MB", "CM"
+                ]
+            },
+            "c_sentreye": {
+                "name": "Corrupted Sentreye",
+                "creature_type": "mechanical",
+                "boss": false,
+                "location": "Dark Aether"
+            },
+            "dark_ingsmasher": {
+                "name": "Dark Ingsmasher",
+                "creature_type": "mechanical",
+                "boss": false,
+                "location": "Dark Aether"
+            },
+            "airthorn": {
+                "name": "Airthorn",
+                "creature_type": "biological",
+                "boss": false,
+                "location": "Dark Aether"
+            },
+            "pirate": {
+                "name": "Pirate",
+                "creature_type": "pirate",
+                "boss": false,
+                "location": "Offworld",
+                "variant": [
+                    "Preed", "Trooper", "Grenadier", "Commando", "Aerotrooper"
+                ]
+            },
+            "metroid": {
+                "name": "Tallon Metroid",
+                "creature_type": "biological",
+                "boss": false,
+                "location": "Offworld",
+                "variant": [
+                    "Infant"
+                ]
+            },
+            "dark_samus": {
+                "name": "Dark Samus",
+                "creature_type": "biological",
+                "boss": true,
+                "location": "Offworld"
+            }
+        }
+    },
+    "mp3": {
+        "name": "Metroid Prime 3: Corruption",
+        "creatures": {
+            "aazelion": {
+                "name": "Aazelion",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "hopper": {
+                "name": "Hopper",
+                "creature_type": "biological",
+                "boss": false,
+                "variant": [
+                    "Alpha", "Phazon"
+                ]
+            },
+            "bryyo_bee": {
+                "name": "Bryyo Bee",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "bryyo_bp": {
+                "name": "Bryyo Bomb Plant",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "shriekbat": {
+                "name": "Shriekbat",
+                "creature_type": "biological",
+                "boss": false,
+                "variant": [
+                    "Bryyonian", "Elysian", "Phazon", "Urtragian"
+                ]
+            },
+            "chozo": {
+                "name": "Chozo",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "crylic_tree": {
+                "name": "Crylic Tree",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "dark_samus": {
+                "name": "Dark Samus",
+                "creature_type": "biological",
+                "boss": true
+            },
+            "elysian": {
+                "name": "Elysian",
+                "creature_type": "mechanical",
+                "boss": false
+            },
+            "eyeblocker": {
+                "name": "EyeballBlocker",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "fargul_hatcher": {
+                "name": "Fargul Hatcher",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "fargul_wasp": {
+                "name": "Fargul Wasp",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "fed_marine": {
+                "name": "Federation Marine (PED)",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "fleet_trooper": {
+                "name": "Fleet Trooper",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "admiral_dane": {
+                "name": "Fleet Admiral Castor Dane",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "fleet_mechanic": {
+                "name": "Fleet Mechanic",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "fungus": {
+                "name": "Fungus",
+                "creature_type": "biological",
+                "boss": false,
+                "variant": [
+                    "Parasitic", "Phazon"
+                ]
+            },
+            "gandrayda": {
+                "name": "Gandrayda",
+                "creature_type": "bounty hunter",
+                "boss": true
+            },
+            "geemer": {
+                "name": "Geemer",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "puffer": {
+                "name": "Puffer",
+                "creature_type": "biological",
+                "boss": false,
+                "variant": [
+                    "Gel", "Phazon", "Mine", "Sky"
+                ]
+            },
+            "gel_ray": {
+                "name": "Gel Ray",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "gelbug": {
+                "name": "Gelbug",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "ghor": {
+                "name": "Ghor",
+                "creature_type": "bounty hunter",
+                "boss": true
+            },
+            "glow_stem": {
+                "name": "Glow Stem",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "gragnol": {
+                "name": "Gragnol",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "metroid": {
+                "name": "Metroid",
+                "creature_type": "biological",
+                "boss": false,
+                "variant": [
+                    "Hopping", "Phazon"
+                ]
+            },
+            "hgb": {
+                "name": "Hyper Grapple Blocker",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "jelsac": {
+                "name": "Jelsac",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "kashh_plant": {
+                "name": "Kashh Plant",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "Korba": {
+                "name": "Korba",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "leviathan": {
+                "name": "Leviathan",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "liquid_phazon": {
+                "name": "Liquid Phazon",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "maw": {
+                "name": "Maw",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "metroid_hatcher": {
+                "name": "Metroid Hatcher",
+                "creature_type": "biological",
+                "boss": true
+            },
+            "miniroid": {
+                "name": "Miniroid",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "missile_blocker": {
+                "name": "Missile Blocker",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "mogenar": {
+                "name": "Mogenar",
+                "creature_type": "biological",
+                "boss": true
+            },
+            "nightbarb": {
+                "name": "Aazelion",
+                "creature_type": "biological",
+                "boss": false,
+                "variant": [
+                    "Phazon"
+                ]
+            },
+            "phaaze_door": {
+                "name": "Phaaze Door",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "phaazoid": {
+                "name": "Phaazoid",
+                "creature_type": "biological",
+                "boss": false,
+                "variant": [
+                    "Red"
+                ]
+            },
+            "phazing": {
+                "name": "Phaz-Ing",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "phazon_grub": {
+                "name": "Phazon Grub",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "phazon_leech": {
+                "name": "Phazon Leech",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "phazon_pillbug": {
+                "name": "Phazon Pillbug",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "commander": {
+                "name": "Pirate Commander",
+                "creature_type": "pirate",
+                "boss": true
+            },
+            "hussar": {
+                "name": "Pirate Hussar",
+                "creature_type": "pirate",
+                "boss": false
+            },
+            "reptilicus": {
+                "name": "Reptilicus",
+                "creature_type": "biological",
+                "boss": false,
+                "variant": [
+                    "Hunter"
+                ]
+            },
+            "rundas": {
+                "name": "Rundas",
+                "creature_type": "bounty hunter",
+                "boss": true
+            },
+            "scarp": {
+                "name": "Scarp",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "scorchbug": {
+                "name": "Scorchbug",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "scritter": {
+                "name": "Scritter",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "shelbug": {
+                "name": "Shelbug",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "snatcher": {
+                "name": "Aazelion",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "skiff": {
+                "name": "Space Pirate Assault Skiff",
+                "creature_type": "pirate",
+                "boss": false
+            },
+            "atomic": {
+                "name": "Atomic",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "boarding_pod": {
+                "name": "Space Pirate Boarding Pod",
+                "creature_type": "pirate",
+                "boss": false
+            },
+            "atc": {
+                "name": "Space Pirate ATC",
+                "creature_type": "pirate",
+                "boss": false
+            },
+            "steambot": {
+                "name": "Steambot",
+                "creature_type": "elysian",
+                "boss": false
+            },
+            "steamlord": {
+                "name": "Steamlord",
+                "creature_type": "elysian",
+                "boss": true
+            },
+            "steamspider": {
+                "name": "Steamspider",
+                "creature_type": "elysian",
+                "boss": false
+            },
+            "swarmbot": {
+                "name": "Swarmbot",
+                "creature_type": "elysian",
+                "boss": false
+            },
+            "tangle_weed": {
+                "name": "Tangle Weed",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "tinbot": {
+                "name": "Tinbot",
+                "creature_type": "elysian",
+                "boss": false
+            },
+            "vaporwing": {
+                "name": "Vaporwing",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "warp_hound": {
+                "name": "Warp Hound",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "zapper": {
+                "name": "Zapper",
+                "creature_type": "pirate",
+                "boss": false
+            },
+            "zipnmebomber": {
+                "name": "ZipNMEBomber",
+                "creature_type": "mechanical",
+                "boss": false
+            },
+            "aerotrooper": {
+                "name": "Aerotrooper",
+                "creature_type": "pirate",
+                "boss": false,
+                "variant": [
+                    "Advanced", "Armored", "Assault"
+                ]
+            },
+            "pirate_trooper": {
+                "name": "Pirate Trooper",
+                "creature_type": "pirate",
+                "boss": false,
+                "variant": [
+                    "Advanced", "Armored", "Assault", "Shield"
+                ]
+            },
+            "shield_trooper": {
+                "name": "Shield Trooper",
+                "creature_type": "pirate",
+                "boss": false,
+                "variant": [
+                    "Advanced", "Armored", "Assault"
+                ]
+            },
+            "militia": {
+                "name": "Pirate Militia",
+                "creature_type": "pirate",
+                "boss": false,
+                "variant": [
+                    "Armored", "Shield"
+                ]
+            },
+            "turret": {
+                "name": "Turret",
+                "creature_type": "pirate",
+                "boss": false,
+                "variant": [
+                    "Despair-Class", "Dread-Class", "Halberd-Class", "Remorse-Class"
+                ]
+            },
+            "berserk_knight": {
+                "name": "Berserker Knight",
+                "creature_type": "pirate",
+                "boss": false
+            },
+            "berserk_lord": {
+                "name": "Berserker Lord",
+                "creature_type": "pirate",
+                "boss": true
+            },
+            "commando": {
+                "name": "Commando Pirate",
+                "creature_type": "pirate",
+                "boss": false
+            },
+            "demo_trooper": {
+                "name": "Demolition Trooper",
+                "creature_type": "pirate",
+                "boss": false
+            },
+            "crawlmine": {
+                "name": "Crawlmine",
+                "creature_type": "pirate",
+                "boss": false
+            },
+            "crawltank": {
+                "name": "Crawltank",
+                "creature_type": "pirate",
+                "boss": false
+            },
+            "jumpmine": {
+                "name": "Jumpmine",
+                "creature_type": "pirate",
+                "boss": false
+            },
+            "korakk": {
+                "name": "Korakk",
+                "creature_type": "biological",
+                "boss": true
+            },
+            "mining_cannon": {
+                "name": "Mining Cannon",
+                "creature_type": "pirate",
+                "boss": true
+            },
+            "drone": {
+                "name": "Drone",
+                "creature_type": "mechanical",
+                "boss": false,
+                "variant": [
+                    "Dragoon", "Jolly Roger", "Phazon Harvester", "Pirate Cargo", "Repair/Aerial Repair", "Training", "Transportation"
+                ]
+            },
+            "defence_drone": {
+                "name": "Defence Drone",
+                "creature_type": "mechanical",
+                "boss": true
+            },
+            "aurora": {
+                "name": "Aurora Unit",
+                "creature_type": "federation",
+                "boss": false,
+                "variant": [
+                    "217", "242", "313"
+                ]
+            },
+            "databot": {
+                "name": "ZipNMEBomber",
+                "creature_type": "elysian",
+                "boss": false
+            },
+            "object": {
+                "name": "Floating Object",
+                "creature_type": "elysian",
+                "boss": false
+            },
+            "helios": {
+                "name": "Helios",
+                "creature_type": "elysian",
+                "boss": true
+            }
+
+        }
+    },
+    "mpff": {
+        "name": "Metroid Prime: Federation Force",
+        "creatures": {
+            "architect": {
+                "name": "Architect",
+                "creature_type": "pirate",
+                "boss": false
+            },
+            "armored_bot": {
+                "name": "Armored Bot",
+                "creature_type": "mechanical",
+                "boss": false
+            },
+            "bruiser": {
+                "name": "Bruiser",
+                "creature_type": "pirate",
+                "boss": false
+            },
+            "trooper": {
+                "name": "Trooper",
+                "creature_type": "pirate",
+                "boss": false,
+                "variant": [
+                    "Cloaked", "Elite"
+                ]
+            },
+            "collosun": {
+                "name": "Collosun",
+                "creature_type": "mechanical",
+                "boss": true
+            },
+            "cyranon": {
+                "name": "Cyranon",
+                "creature_type": "mechanical",
+                "boss": true
+            },
+            "dropship": {
+                "name": "Dropship",
+                "creature_type": "pirate",
+                "boss": false,
+                "variant": [
+                    "Elite"
+                ]
+            },
+            "pirate": {
+                "name": "Pirate",
+                "creature_type": "pirate",
+                "boss": false,
+                "variant": [
+                    "Elite", "Flying"
+                ]
+            },
+            "eyeflyer": {
+                "name": "Eyeflyer",
+                "creature_type": "pirate",
+                "boss": false
+            },
+            "griptorax": {
+                "name": "Griptorax",
+                "creature_type": "biological",
+                "boss": false,
+                "variant": [
+                    "Fire", "Ice"
+                ]
+            },
+            "hopper": {
+                "name": "Hopper",
+                "creature_type": "biological",
+                "boss": false,
+                "variant": [
+                    "Fire", "Ice", "Omega"
+                ]
+            },
+            "shriekbat": {
+                "name": "Shriekbat",
+                "creature_type": "biological",
+                "boss": false,
+                "variant": [
+                    "Fire", "Ice"
+                ]
+            },
+            "generator": {
+                "name": "Generator",
+                "creature_type": "mechanical",
+                "boss": true
+            },
+            "turret": {
+                "name": "Grim-Class Turret",
+                "creature_type": "mechanical",
+                "boss": false
+            },
+            "hover_bot": {
+                "name": "Hover Bot",
+                "creature_type": "pirate",
+                "boss": false
+            },
+            "ice_geemer": {
+                "name": "Ice Geemer",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "ice_titan": {
+                "name": "Ice Titan",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "mainframe": {
+                "name": "Mainframe",
+                "creature_type": "mechanical",
+                "boss": true
+            },
+            "master_brain": {
+                "name": "Master Brain",
+                "creature_type": "pirate",
+                "boss": true
+            },
+            "metroid": {
+                "name": "Metroid",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "missile_transport": {
+                "name": "Missile Transport",
+                "creature_type": "pirate",
+                "boss": false
+            },
+            "warship": {
+                "name": "Pirate Warship",
+                "creature_type": "pirate",
+                "boss": true
+            },
+            "rb133": {
+                "name": "RB133 Auricrusher",
+                "creature_type": "pirate",
+                "boss": false
+            },
+            "rohkor": {
+                "name": "Rohkor Beetle",
+                "creature_type": "biological",
+                "boss": true
+            },
+            "sawken": {
+                "name": "Sawken",
+                "creature_type": "biological",
+                "boss": true
+            },
+            "security_bot": {
+                "name": "Security Bot",
+                "creature_type": "mechanical",
+                "boss": false
+            },
+            "sentinel": {
+                "name": "Architect",
+                "creature_type": "mechanical",
+                "boss": false
+            },
+            "sentry_missile": {
+                "name": "Architect",
+                "creature_type": "pirate",
+                "boss": false
+            },
+            "thermo_sphere": {
+                "name": "Thermo Sphere",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "zurburat": {
+                "name": "Zurburat",
+                "creature_type": "pirate",
+                "boss": false
+            }
+        }
+    },
+    "m2": {
+        "name": "Metroid II: Samus Returns",
+        "creatures": {
+            "metroid": {
+                "name": "Metroid",
+                "creature_type": "biological",
+                "boss": false,
+                "variant": [
+                    "Alpha", "Gamma", "Larva", "Omega", "Zeta"
+                ]
+            },
+            "queen": {
+                "name": "Queen Metroid",
+                "creature_type": "biological",
+                "boss": true
+            },
+            "arachnus": {
+                "name": "Arachnus",
+                "creature_type": "biological",
+                "boss": true
+            },
+            "autoad": {
+                "name": "Autoad",
+                "creature_type": "mechanical",
+                "boss": false
+            },
+            "autrack": {
+                "name": "Autrack",
+                "creature_type": "mechanical",
+                "boss": false
+            },
+            "blob_thrower": {
+                "name": "Blob Thrower",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "chute_leech": {
+                "name": "Chute Leech",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "diggernaut": {
+                "name": "Diggernaut",
+                "creature_type": "mechanical",
+                "boss": true
+            },
+            "drivel": {
+                "name": "Drivel",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "fleech_swarm": {
+                "name": "Fleech Swarm",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "gawron": {
+                "name": "Gawron",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "gigadora": {
+                "name": "Gigadora",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "glow_fly": {
+                "name": "Glow Fly",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "gravitt": {
+                "name": "Gravitt",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "gryncore": {
+                "name": "Gryncore",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "gullugg": {
+                "name": "Gullugg",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "halzyn": {
+                "name": "Halzyn",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "hornoad": {
+                "name": "Hornoad",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "meboid": {
+                "name": "Meboid",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "moheek": {
+                "name": "Moheek",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "moto": {
+                "name": "Moto",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "mumbo": {
+                "name": "Mumbo",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "paraby": {
+                "name": "Paraby",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "ridley": {
+                "name": "Proteus Ridley",
+                "creature_type": "pirate",
+                "boss": true
+            },
+            "ramulken": {
+                "name": "Ramulken",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "rock_icicle": {
+                "name": "Rock Icicle",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "taramarga": {
+                "name": "Taramarga",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "tsumuri": {
+                "name": "Tsumuri",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "wallfire": {
+                "name": "Gawron",
+                "creature_type": "mechanical",
+                "boss": false
+            }
+        }
+    },
+    "sm": {
+        "name": "Super Metroid",
+        "creatures": {
+            "alcoon": {
+                "name": "Alcoon",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "atomic": {
+                "name": "Atomic",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "beetom": {
+                "name": "Beetom",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "sidehopper": {
+                "name": "Sidehopper",
+                "creature_type": "biological",
+                "boss": false,
+                "variant": [
+                    "Blue"
+                ]
+            },
+            "botwoon": {
+                "name": "Botwoon",
+                "creature_type": "biological",
+                "boss": true
+            },
+            "boyon": {
+                "name": "Boyon",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "bull": {
+                "name": "Bull",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "cacatac": {
+                "name": "Cacatac",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "choot": {
+                "name": "Choot",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "covern": {
+                "name": "Covern",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "crocomire": {
+                "name": "Crocomire",
+                "creature_type": "biological",
+                "boss": true
+            },
+            "dachora": {
+                "name": "Dachora",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "dessgeega": {
+                "name": "Dessgeega",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "dragon": {
+                "name": "Dragon",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "draygon": {
+                "name": "Draygon",
+                "creature_type": "biological",
+                "boss": true
+            },
+            "etecoon": {
+                "name": "Etecoon",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "evir": {
+                "name": "Evir",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "fireflea": {
+                "name": "Fireflea",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "fune": {
+                "name": "Fune",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "gadora": {
+                "name": "Gadora",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "gamet": {
+                "name": "Gamet",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "geega": {
+                "name": "Geega",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "geemer": {
+                "name": "Geemer",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "geruta": {
+                "name": "Geruta",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "torizo": {
+                "name": "Torizo",
+                "creature_type": "biological",
+                "boss": false,
+                "variant": [
+                    "Golden"
+                ]
+            },
+            "pirate": {
+                "name": "Space Pirate",
+                "creature_type": "biological",
+                "boss": false,
+                "variant": [
+                    "Green", "Pink", "Red", "Silver"
+                ]
+            },
+            "holtz": {
+                "name": "Holtz",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "kago": {
+                "name": "Kago",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "kihunter": {
+                "name": "Kihunter",
+                "creature_type": "pirate",
+                "boss": false
+            },
+            "kraid": {
+                "name": "Kraid",
+                "creature_type": "pirate",
+                "boss": true
+            },
+            "magdollite": {
+                "name": "Magdollite",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "mella": {
+                "name": "Mella",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "mellow": {
+                "name": "Mellow",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "memu": {
+                "name": "Memu",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "metaree": {
+                "name": "Metaree",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "metroid": {
+                "name": "Metroid",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "mini-kraid": {
+                "name": "Mini-Kraid",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "mochtroid": {
+                "name": "Mochtroid",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "mother_brain": {
+                "name": "Mother Brain",
+                "creature_type": "pirate",
+                "boss": true
+            },
+            "multiviola": {
+                "name": "Multiviola",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "namihe": {
+                "name": "Namihe",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "oum": {
+                "name": "Oum",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "owtch": {
+                "name": "Owtch",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "phantoon": {
+                "name": "Phantoon",
+                "creature_type": "biological",
+                "boss": true
+            },
+            "powamp": {
+                "name": "Powamp",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "puromi": {
+                "name": "Puromi",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "puyo": {
+                "name": "Puyo",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "reo": {
+                "name": "Reo",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "ridley": {
+                "name": "Ridley",
+                "creature_type": "pirate",
+                "boss": true
+            },
+            "rinka": {
+                "name": "Rinka",
+                "creature_type": "pirate",
+                "boss": false
+            },
+            "ripper": {
+                "name": "Ripper",
+                "creature_type": "biological",
+                "boss": false,
+                "variant": [
+                    "Ripper II"
+                ]
+            },
+            "samus_eater": {
+                "name": "Samus Eater",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "sbug": {
+                "name": "Sbug",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "sciser": {
+                "name": "Sciser",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "shaktool": {
+                "name": "Covern",
+                "creature_type": "mechanical",
+                "boss": false
+            },
+            "skree": {
+                "name": "Skree",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "skultera": {
+                "name": "Skultera",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "sova": {
+                "name": "Sova",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "spore_spawn": {
+                "name": "Spore Spawn",
+                "creature_type": "biological",
+                "boss": true
+            },
+            "squeept": {
+                "name": "Squeept",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "sus_platform": {
+                "name": "Suspensor Platform",
+                "creature_type": "mechanical",
+                "boss": false
+            },
+            "tatori": {
+                "name": "Tatori",
+                "creature_type": "biological",
+                "boss": false,
+                "variant": [
+                    "Jr"
+                ]
+            },
+            "tripper": {
+                "name": "Tripper",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "viola": {
+                "name": "Viola",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "waver": {
+                "name": "Waver",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "work_robot": {
+                "name": "Work Robot",
+                "creature_type": "mechanical",
+                "boss": false
+            },
+            "maw": {
+                "name": "Yapping Maw",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "yard": {
+                "name": "Yard",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "zeb": {
+                "name": "Zeb",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "zebetite": {
+                "name": "Zebetite",
+                "creature_type": "mechanical",
+                "boss": false
+            },
+            "zebbo": {
+                "name": "Zebbo",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "zeela": {
+                "name": "Covern",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "zero": {
+                "name": "Zero",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "zoa": {
+                "name": "Zoa",
+                "creature_type": "biological",
+                "boss": false
+            }
+        }
+    },
+    "otherm": {
+        "name": "Metroid: Other M",
+        "creatures": {
+            "asborean": {
+                "name": "Asborean",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "asborean_spawn": {
+                "name": "Asborean Spawn",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "baristute": {
+                "name": "Baristute",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "brug": {
+                "name": "Brug",
+                "creature_type": "biological",
+                "boss": false,
+                "variant": [
+                    "Emperor"
+                ]
+            },
+            "brug_mass": {
+                "name": "Brug Mass",
+                "creature_type": "biological",
+                "boss": true
+            },
+            "bull": {
+                "name": "Bull",
+                "creature_type": "biological",
+                "boss": false,
+                "variant": [
+                    "Heat"
+                ]
+            },
+            "zebesian": {
+                "name": "Zebesian",
+                "creature_type": "pirate",
+                "boss": false,
+                "variant": [
+                    "Cyborg", "Super"
+                ]
+            },
+            "cyclaw": {
+                "name": "Cyclaw",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "desbrachian": {
+                "name": "Desbrachian",
+                "creature_type": "pirate",
+                "boss": false
+            },
+            "dessgeega": {
+                "name": "Dessgeega",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "dragotix": {
+                "name": "Dragotix",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "fg-1000": {
+                "name": "FG-1000",
+                "creature_type": "mechanical",
+                "boss": false
+            },
+            "fg2": {
+                "name": "FG II-Graham",
+                "creature_type": "mechanical",
+                "boss": false
+            },
+            "fly_pod": {
+                "name": "Fly Pod",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "fumbleye": {
+                "name": "Fumbleye",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "fune": {
+                "name": "Fune",
+                "creature_type": "biological",
+                "boss": true
+            },
+            "geemer": {
+                "name": "Geemer",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "ghalmanian": {
+                "name": "Ghalmanian",
+                "creature_type": "pirate",
+                "boss": false
+            },
+            "gigafraug": {
+                "name": "Gigafraug",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "goyagma": {
+                "name": "Goyagma",
+                "creature_type": "biological",
+                "boss": true
+            },
+            "griptian": {
+                "name": "Griptian",
+                "creature_type": "pirate",
+                "boss": false,
+                "variant": [
+                    "Mighty"
+                ]
+            },
+            "groganch": {
+                "name": "Groganch",
+                "creature_type": "biological",
+                "boss": true
+            },
+            "himella": {
+                "name": "Himella",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "joulion": {
+                "name": "Joulion",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "kihunter": {
+                "name": "Kihunter",
+                "creature_type": "pirate",
+                "boss": false,
+                "variant": [
+                    "Super"
+                ]
+            },
+            "king_kihunter": {
+                "name": "King Kihunter",
+                "creature_type": "biological",
+                "boss": true
+            },
+            "kyratian": {
+                "name": "Kyratian",
+                "creature_type": "pirate",
+                "boss": false
+            },
+            "magdollite": {
+                "name": "Magdollite",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "mb": {
+                "name": "MB",
+                "creature_type": "pirate",
+                "boss": true
+            },
+            "mella": {
+                "name": "Mella",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "metroid": {
+                "name": "Metroid",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "namihe": {
+                "name": "Namihe",
+                "creature_type": "biological",
+                "boss": true
+            },
+            "nightmare": {
+                "name": "Nightmare",
+                "creature_type": "biological",
+                "boss": true
+            },
+            "phantoon": {
+                "name": "Phantoon",
+                "creature_type": "biological",
+                "boss": true
+            },
+            "pow": {
+                "name": "Pow",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "queen_metroid": {
+                "name": "Queen Metroid",
+                "creature_type": "biological",
+                "boss": true
+            },
+            "ferrocrusher": {
+                "name": "RB176 Ferrocrusher",
+                "creature_type": "mechanical",
+                "boss": true
+            },
+            "rage_hand": {
+                "name": "Rage Hand",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "reo": {
+                "name": "Reo",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "rhedogian": {
+                "name": "Rhedogian",
+                "creature_type": "pirate",
+                "boss": true
+            },
+            "ridley": {
+                "name": "Ridley",
+                "creature_type": "pirate",
+                "boss": true
+            },
+            "rinka": {
+                "name": "Rinka",
+                "creature_type": "pirate",
+                "boss": false
+            },
+            "sandfang": {
+                "name": "Sandfang",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "sidehopper": {
+                "name": "Sidehopper",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "skree": {
+                "name": "Skree",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "skultera": {
+                "name": "Asborean",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "snomer": {
+                "name": "Snomer",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "sova": {
+                "name": "Sova",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "volfon": {
+                "name": "Volfon",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "vorash": {
+                "name": "Vorash",
+                "creature_type": "biological",
+                "boss": true
+            },
+            "wadge": {
+                "name": "Wadge",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "waver": {
+                "name": "Waver",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "whipvine": {
+                "name": "Whipvine",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "zero": {
+                "name": "Zero",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "zuru": {
+                "name": "Zuru",
+                "creature_type": "biological",
+                "boss": false
+            }
+
+        }
+    },
+    "mf": {
+        "name": "Metroid Fusion",
+        "creatures": {
+            "metroid": {
+                "name": "Metroid",
+                "creature_type": "biological",
+                "boss": false,
+                "variant": [
+                    "Alpha", "Gamma", "Omega", "Zeta"
+                ]
+            },
+            "arachnus": {
+                "name": "Arachnus",
+                "creature_type": "biological",
+                "boss": true
+            },
+            "core-x": {
+                "name": "Core-X",
+                "creature_type": "biological",
+                "boss": true,
+                "variant": [
+                    "Beam", "Barrier"
+                ]
+            },
+            "bull": {
+                "name": "Bull",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "choot": {
+                "name": "Choot",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "dachora": {
+                "name": "Dachora",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "dessgeega": {
+                "name": "Dessgeega",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "etecoon": {
+                "name": "Etecoon",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "evir": {
+                "name": "Evir",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "fake_tank": {
+                "name": "Fake Tank",
+                "creature_type": "biological",
+                "boss": false,
+                "variant": [
+                    "Missile", "Energy"
+                ]
+            },
+            "fune": {
+                "name": "Fune",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "gadora": {
+                "name": "Gadora",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "geemer": {
+                "name": "Geemer",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "genesis": {
+                "name": "Genesis",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "geron": {
+                "name": "Geron",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "gerubus": {
+                "name": "Gerubus",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "geruta": {
+                "name": "Geruta",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "sciser": {
+                "name": "Sciser",
+                "creature_type": "biological",
+                "boss": false,
+                "variant": [
+                    "Gold"
+                ]
+            },
+            "pirate": {
+                "name": "Space Pirate",
+                "creature_type": "pirate",
+                "boss": false,
+                "variant": [
+                    "Gold"
+                ]
+            },
+            "halzyn": {
+                "name": "Halzyn",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "hornoad": {
+                "name": "Hornoad",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "kago": {
+                "name": "Kago",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "kihunter": {
+                "name": "Kihunter",
+                "creature_type": "pirate",
+                "boss": false
+            },
+            "menu": {
+                "name": "Menu",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "moto": {
+                "name": "Moto",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "neo-ridley": {
+                "name": "Neo Ridley",
+                "creature_type": "biological",
+                "boss": true
+            },
+            "namihe": {
+                "name": "Namihe",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "nova": {
+                "name": "Nova",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "nettori": {
+                "name": "Nettori",
+                "creature_type": "biological",
+                "boss": true
+            },
+            "nightmare": {
+                "name": "Nightmare",
+                "creature_type": "biological",
+                "boss": true
+            },
+            "owtch": {
+                "name": "Owtch",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "powamp": {
+                "name": "Powamp",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "puyo": {
+                "name": "Puyo",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "reo": {
+                "name": "Reo",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "ripper": {
+                "name": "Ripper",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "sa-x": {
+                "name": "SA-X",
+                "creature_type": "biological",
+                "boss": true
+            },
+            "samus-eater": {
+                "name": "Samus Eater",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "robot-box": {
+                "name": "Security Robot B.O.X.",
+                "creature_type": "mechanical",
+                "boss": true
+            },
+            "serris": {
+                "name": "Serris",
+                "creature_type": "biological",
+                "boss": true
+            },
+            "sidehopper": {
+                "name": "Sidehopper",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "skultera": {
+                "name": "Skultera",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "waver": {
+                "name": "Waver",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "x": {
+                "name": "X-Parasite",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "yakuza": {
+                "name": "Yakuza",
+                "creature_type": "biological",
+                "boss": true
+            },
+            "yameba": {
+                "name": "Yameba",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "yard": {
+                "name": "Yard",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "zazabi": {
+                "name": "Zazabi",
+                "creature_type": "biological",
+                "boss": true
+            },
+            "zebesian": {
+                "name": "Zebesian",
+                "creature_type": "pirate",
+                "boss": false,
+                "variant": [
+                    "Aqua"
+                ]
+            },
+            "zeela": {
+                "name": "Zeela",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "zero": {
+                "name": "Zero",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "zombie": {
+                "name": "Zombie Researcher",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "zozoro": {
+                "name": "Bull",
+                "creature_type": "biological",
+                "boss": false
+            }
+        }
+    },
+    "md": {
+        "name": "Metroid Dread",
+        "creatures": {
+            "armadigger": {
+                "name": "Armadigger",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "autclast": {
+                "name": "Autclast",
+                "creature_type": "mechanical",
+                "boss": false
+            },
+            "autsharp": {
+                "name": "Autsharp",
+                "creature_type": "mechanical",
+                "boss": false
+            },
+            "autsniper": {
+                "name": "Autsniper",
+                "creature_type": "mechanical",
+                "boss": false
+            },
+            "batalloon": {
+                "name": "Batalloon",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "central_unit": {
+                "name": "Central Unit",
+                "creature_type": "mechanical",
+                "boss": true
+            },
+            "soldier": {
+                "name": "Chozo Soldier",
+                "creature_type": "biological",
+                "boss": true,
+                "variant": [
+                    "Elite", "Robot"
+                ]
+            },
+            "zombie": {
+                "name": "Chozo Zombie",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "corpius": {
+                "name": "Corpius",
+                "creature_type": "biological",
+                "boss": true
+            },
+            "daivo": {
+                "name": "Daivo",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "dizzean": {
+                "name": "Dizzean",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "drogyga": {
+                "name": "Drogyga",
+                "creature_type": "biological",
+                "boss": true
+            },
+            "dropter": {
+                "name": "Dropter",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "emmi": {
+                "name": "E.M.M.I.",
+                "creature_type": "mechanical",
+                "boss": true,
+                "variant": [
+                    "01P", "02SM", "03MB", "04SB", "05IM", "06WB", "07PB"
+                ]
+            },
+            "escue": {
+                "name": "Escue",
+                "creature_type": "biological",
+                "boss": true
+            },
+            "experiment": {
+                "name": "Experiment No. Z-57",
+                "creature_type": "biological",
+                "boss": true
+            },
+            "gadora": {
+                "name": "Gadora",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "golzuna": {
+                "name": "Golzuna",
+                "creature_type": "biological",
+                "boss": true
+            },
+            "hecathon": {
+                "name": "Hecathon",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "klaida": {
+                "name": "Klaida",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "kraid": {
+                "name": "Kraid",
+                "creature_type": "biological",
+                "boss": true
+            },
+            "kreep": {
+                "name": "Kreep",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "muzby": {
+                "name": "Muzby",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "obsydomithon": {
+                "name": "Obsydomithon",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "ply": {
+                "name": "Ply",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "quetzoa": {
+                "name": "Quetzoa",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "raven_beak": {
+                "name": "Raven Beak",
+                "creature_type": "biological",
+                "boss": true
+            },
+            "slaaga": {
+                "name": "Slaaga",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "vulkran": {
+                "name": "Vulkran",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "x": {
+                "name": "X-Parasite",
+                "creature_type": "biological",
+                "boss": false
+            },
+            "yampa": {
+                "name": "Yampa",
+                "creature_type": "biological",
+                "boss": false
+            }
+        }
+    }
+
+
+}
